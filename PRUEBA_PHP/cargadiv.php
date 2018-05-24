@@ -1,4 +1,0 @@
-<?php 
-echo "  si carga bien un php o un archivo ajax";
-
- ?>
